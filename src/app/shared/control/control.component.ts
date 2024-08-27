@@ -13,8 +13,6 @@ import {
 
 @Component({
   selector: 'app-control',
-  standalone: true,
-  imports: [],
   templateUrl: './control.component.html',
   styleUrl: './control.component.css',
   encapsulation: ViewEncapsulation.None,
